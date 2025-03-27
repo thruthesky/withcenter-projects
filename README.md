@@ -42,3 +42,7 @@
 - Status: ongoing
 - Purpose: Provide a freelacer platform where freelancers can work for clients/companies in worldwide.
 - Production site: [Lancers](https://lancers.thruthesky.workers.dev/)
+
+
+
+EOF
