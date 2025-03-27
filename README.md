@@ -24,4 +24,10 @@
 
 ## Luxury production information display by AI
 
-...
+- Status:
+
+- Purpose: Proof of Concept to verify if AI can generate informations from the luxury goods in the picture.
+
+- Source code: https://github.com/thruthesky/luxury-product
+
+- Production site: [Vercel Next.js App](https://luxury-product.vercel.app/)
