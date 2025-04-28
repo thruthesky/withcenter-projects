@@ -1,5 +1,10 @@
 # Withcenter Projects
 
+- [Withcenter Projects](#withcenter-projects)
+  - [AI Inovice generator](#ai-inovice-generator)
+  - [Luxury production information display by AI](#luxury-production-information-display-by-ai)
+  - [Lancers](#lancers)
+
 ## AI Inovice generator
 
 - Status: Well done.
@@ -24,4 +29,16 @@
 
 ## Luxury production information display by AI
 
-...
+- Status:
+
+- Purpose: Proof of Concept to verify if AI can generate informations from the luxury goods in the picture.
+
+- Source code: https://github.com/thruthesky/luxury-product
+
+- Production site: [Vercel Next.js App](https://luxury-product.vercel.app/)
+
+## Lancers
+
+- Status: ongoing
+- Purpose: Provide a freelacer platform where freelancers can work for clients/companies in worldwide.
+- Production site: [Lancers](https://lancers.thruthesky.workers.dev/)
