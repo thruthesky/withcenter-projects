@@ -20,7 +20,7 @@
 
 - Source code: https://github.com/thruthesky/invoice
 
-- Production site: [Vercel Next.js App](https://invoice-guyvcfenm-thrutheskys-projects.vercel.app/)
+- Production site: [Cloudflare](https://invoice-gen.withcenter.workers.dev/)
 
 ## Luxury production information display by AI
 
